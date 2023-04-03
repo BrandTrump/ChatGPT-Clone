@@ -10,5 +10,6 @@ Tutorial by [Sonny Sangha](https://www.youtube.com/@SonnySangha) - https://www.y
 ### Learnings
 - How to use the OpenAI API
 - Next.js 13
+- Tailwind CSS
 - Further updates to come...
 
