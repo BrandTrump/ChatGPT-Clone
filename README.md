@@ -17,4 +17,5 @@ Tutorial by [Sonny Sangha](https://www.youtube.com/@SonnySangha) - https://www.y
 - Server components vs Client side components
 - SWR
 - Firebase admin
+- Next auth
 
