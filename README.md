@@ -9,7 +9,12 @@ Tutorial by [Sonny Sangha](https://www.youtube.com/@SonnySangha) - https://www.y
 
 ### Learnings
 - How to use the OpenAI API
+- Adjusting completion settings. (Temperature etc...)
+- ChatGPT models
 - Next.js 13
+- Next.js 13 folder structure
 - Tailwind CSS
-- Further updates to come...
+- Server components vs Client side components
+- SWR
+- Firebase admin
 
